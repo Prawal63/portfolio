@@ -34,4 +34,4 @@ In my portfolio, you'll find a section where you can see all my recent projects.
 
 ## Deployment
 The portfolio is deployed on Vercel, which guarantees fast loading and constant availability. 
-You can access it at the following url: https://portfolio-nando.vercel.app/
+You can access it at the following url: https://my-p0rtf0lio.netlify.app
