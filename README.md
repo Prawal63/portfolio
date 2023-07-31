@@ -1,9 +1,9 @@
 # 🔥 Portfolio FE Developer 🚀
 
-[WEB](https://portfolio-nando.vercel.app/)
+[WEB]-https://my-p0rtf0lio.netlify.app
 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 
 <h3>:books: Getting started</h3>
 
