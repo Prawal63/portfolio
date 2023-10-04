@@ -33,5 +33,5 @@ Here's a picture of what my portfolio would look like:
 In my portfolio, you'll find a section where you can see all my recent projects. Each project has a detailed description and a link to the source code and/or a demo. They're all pretty cool and I'm super proud of them.
 
 ## Deployment
-The portfolio is deployed on Vercel, which guarantees fast loading and constant availability. 
+The portfolio is deployed on Netlify, which guarantees fast loading and constant availability. 
 You can access it at the following url: https://my-p0rtf0lio.netlify.app
